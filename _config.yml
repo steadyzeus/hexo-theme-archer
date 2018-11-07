@@ -8,9 +8,9 @@ signature: witness me
 # SNS (you can custom the order)
 social:
   email: steadyevo@gmail.com
-  github: //github.com/fi3ework
+  github: //github.com/steadyzeus
   # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
+  wechat:
   qq: 
   telegram: 
   weibo: 
@@ -39,16 +39,16 @@ about:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: Steady's Studio
+SEO_title: Steady's Blog
 # keywords for site (good for SEO)
 SEO_keywords:
   - steady blog
   - 'steady-theme'
   - 'steady-blog'
 # main title shown in header image
-main_title: Steady's Studio.
+main_title: Steady's Blog.
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: If you never try you will never known
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
